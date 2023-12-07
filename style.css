@@ -169,7 +169,7 @@ ul {
 
 .main {
   margin: 20px auto 0 auto;
-  max-width: 1250px;
+  max-width: 1150px;
   display: flex;
   flex-direction: column;
 }
@@ -307,6 +307,7 @@ ul {
     justify-content: space-between;
   }
   .main .section1 {
+    margin-top: auto;
     align-items: flex-start;
     order: 1;
     width: 50%;
